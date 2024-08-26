@@ -150,11 +150,3 @@ elif ndeoperacoes == "1":
 
 else:
     print("Numero de operações inválido, você deve escolher entre 1 e 4 operações")
-
-
-
-
-
-
-
-
